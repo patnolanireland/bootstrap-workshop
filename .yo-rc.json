@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Bootstrap",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
