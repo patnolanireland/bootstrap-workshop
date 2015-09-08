@@ -2,7 +2,7 @@
 
 [http://getbootstrap.com/examples/grid/](http://getbootstrap.com/examples/grid/)
 
-![Examples](img/bootstrapgridexamples.png)
+![Examples](resources/bootstrapgridexamples.png)
 
 
 
